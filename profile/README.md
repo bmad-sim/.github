@@ -1,4 +1,13 @@
-## Hi there 👋
+## Welcome to the Bmad Consortium Site!
+
+This site is dedicated to the development of code for the simulation of high energy particle beams and X-rays in Linacs, storage rings and other machines.
+
+There are several facets to this:
+- The Bmad ecosystem of libraries and programs. See https://github.com/bmad-sim/bmad-ecosystem.
+- PyTao Python interface for the Tao program (Tao is part of the Bmad ecosystem). See https://github.com/bmad-sim/pytao.
+- SciBmad which is a simulation code inspired by Bmad (but written entirely in Julia without any code overlap). See all repos with a .jl suffix.
+
+
 
 <!--
 
